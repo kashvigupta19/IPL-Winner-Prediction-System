@@ -88,45 +88,6 @@ IPL_Winner_Prediction/
 │     └── about_page.png
 ```
 
----
-
-## 📸 Application Screenshots
-
-### 🏠 Home Page
-
-![Home](images/home_page.png)
-
----
-
-### 🏆 Predict Winner
-
-![Predict](images/predict_winner.png)
-
----
-
-### 🎯 Prediction Result
-
-![Prediction](images/prediction_result.png)
-
----
-
-### 📊 Team Analysis
-
-![Team Analysis](images/team_analysis.png)
-
----
-
-### 🤖 Model Performance
-
-![Performance](images/model_performance.png)
-
----
-
-### ℹ️ About Page
-
-![About](images/about_page.png)
-
----
 
 ## 🚀 Installation
 
