@@ -133,7 +133,7 @@ IPL_Winner_Prediction/
 Clone the repository
 
 ```bash
-git clone https://github.com/kashvigupta19/IPL-Winner-Prediction-System.git
+https://github.com/kashvigupta19/IPL-Winner-Prediction-System.git
 ```
 
 Move into the project directory
